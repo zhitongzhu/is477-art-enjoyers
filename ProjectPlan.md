@@ -87,4 +87,14 @@ __12/1-12/7:__ Team Members will meet to finalize the project and ensure analysi
 
 __12/08:__ Final Project Due.
 
+## 7.Gaps
+Data Availability and Integration Feasibility: We still need to examine the actual API responses to determine which attributes are available and how reliably artist records can be linked across the three sources.
+
+Artist Matching Criteria: We need to establish specific rules for matching artists without shared identifiers, including how to handle ambiguous matches and conflicting biographical information.
+
+Data Quality Assessment Methods: We need to determine how to measure accuracy, completeness, timeliness, and consistency before and after integration, including which attributes and metrics to use.
+
+Nationality and Historical Period Definitions: We need to decide how to categorize artists with multiple citizenships or missing nationality information and how to divide artworks into historical time periods for meaningful comparisons.
+
+Workflow and Reproducibility: We need to finalize the structure of our automated workflow, including the order of scripts, data storage formats, and documentation needed to reproduce our results.
 
