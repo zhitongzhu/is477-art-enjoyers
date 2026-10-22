@@ -11,7 +11,7 @@ Our project will look to investigate how artists from different national and his
 Our last step will be to analyze the integrated dataset to compare artist representation across the two museums. We also plan on creating several data visualizations to illustrate our findings to make the information more non technical. Documentation of our workflow, data sources, and processing decisions will also be made to make sure that our project is transparent and reproducible.
 
 
-# 2. Team Member Roles and Responsibilities
+## 2. Team Member Roles and Responsibilities
    Our team has four members who are all responsible for different stages of the curation process. 
 Jared — Data Acquisition and Storage
 Retrieve artwork and artist data from APIs, collect bio information from wikidata, organize the raw datasets using a consistent file structure, document data sources and acquisition methods, and implement integrity checks.
