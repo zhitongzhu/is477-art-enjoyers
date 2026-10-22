@@ -87,7 +87,7 @@ __12/1-12/7:__ Team Members will meet to finalize the project and ensure analysi
 
 __12/08:__ Final Project Due.
 
-## 7.Gaps
+## 7. Gaps
 Data Availability and Integration Feasibility: We still need to examine the actual API responses to determine which attributes are available and how reliably artist records can be linked across the three sources.
 
 Artist Matching Criteria: We need to establish specific rules for matching artists without shared identifiers, including how to handle ambiguous matches and conflicting biographical information.
