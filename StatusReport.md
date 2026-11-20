@@ -27,40 +27,4 @@ I began developing a Python script that helps us to evaluate the accuracy, compl
 
 
 ### Data Integration and Record Linkage - Zhitong
-
-**Work completed (branch `data-integration`)**
-
-- Verified that all three datasets matched the committed SHA-256 checksums before use.
-- Explored the structure of all three sources (`docs/integration_plan.md` §2), with three key findings:
-  - The Met's `Constituent ID` is not a usable artist key. It is concatenated without a delimiter for multi-creator artworks, and the same ID is reused for different names (10,295 IDs across 29,266 names in single-creator rows).
-  - Cleveland creator IDs are museum-specific, but stable.
-  - Wikidata bindings repeat artists once per citizenship and date value.
-- Designed a preliminary integration schema (§3):
-  - artists are keyed on a `unified_artist_id` (Wikidata QID when known);
-  - artwork-creator link tables are kept per museum;
-  - all joins are many-to-one with row-count assertions, so multiple citizenships cannot inflate artwork counts.
-- Wrote `scripts/integrate.py`:
-  - Met → Wikidata linkage by QID with a date check;
-  - Cleveland → Met/Wikidata matching by normalized name, with birth and death years (± 2) as evidence;
-  - every Cleveland creator classified as confirmed / ambiguous / unmatched / excluded. An identical name alone never confirms a match.
-- Ran it on the full **raw** data as a preliminary test. The final run will use the cleaned datasets.
-
-**Preliminary results** (`results/preliminary/`)
-
-- Met: 20,137 artist QIDs. 17,351 are consistent with Wikidata, 2,314 linked but with date conflicts, and 472 are absent from the Wikidata pull (mostly firms and workshops).
-- Cleveland (9,135 creators):
-  - 3,358 confirmed (3,304 distinct people found in both museums);
-  - 905 ambiguous (kept for manual review);
-  - 4,862 unmatched;
-  - 10 anonymous.
-- Wikidata adds citizenship for 27.6% of Met and 32.0% of Cleveland artists. It raises Met birth-year completeness only slightly (75.8% → 76.5%).
-- 53 people appear under two Cleveland creator IDs (likely duplicate records), flagged for cleaning.
-- Spot check: all 25 sampled confirmed matches were correct.
-
-**Challenges / next steps**
-
-- Expand Wikidata coverage to Cleveland-only artists (with Jared).
-- Agree on the cleaned-data structure (`docs/integration_plan.md` §6, with Bernice) and re-run on cleaned data.
-- Consolidate Met duplicate artist records.
-- Set manual-review rules for ambiguous matches.
-- Map museum nationalities to Wikidata citizenship for the analysis.
+I verified the SHA-256 checksums for all three datasets and developed a Python record linkage script that connects artists across the Met, Cleveland, and Wikidata datasets. I found that the Met’s Constituent ID cannot be used to identify artists so Met artists are linked using their Wikidata identifiers. Cleveland artists are matched by standardized name along with agreeing birth and death years so artists with identical names are not automatically treated as the same person. In a preliminary run on the raw data, I linked 20,137 Met artists to Wikidata and confirmed 3,304 artists who appear in both museums, leaving 905 ambiguous matches for manual review and 4,862 Cleveland artists unmatched. I also identified 53 artists with duplicate Cleveland creator IDs and documented the integration schema, matching rules, and results in the repository. My remaining tasks involve rerunning the integration on the cleaned datasets, expanding Wikidata coverage for Cleveland-only artists, reviewing ambiguous matches, and finalizing the integrated dataset.
