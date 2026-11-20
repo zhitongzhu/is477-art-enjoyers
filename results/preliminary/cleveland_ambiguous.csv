@@ -1,0 +1,906 @@
+cle_creator_id,cle_name,cle_birth,cle_death,match_status,reason,matched_entity_id,matched_qid,n_name_candidates
+10335,John Sigismund Tanner,,1775.0,ambiguous,"same name, insufficient dates to confirm",,,1
+10388,Clemens Horn,1586.0,1617.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+10603,Lazarino Cominazzo,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10760,Brygos Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10796,Meidias Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10809,Marco Marchetti,1565.0,1588.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+10896,Nikosthenes,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10899,Douris,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10915,Antimenes Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10924,Psiax,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10960,Pig Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+10994,Lysippides Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11009,Oionokles Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11012,Group R,,,ambiguous,"same name, insufficient dates to confirm",,,1
+1106,David B. Woodbury,,1866.0,ambiguous,"same name, insufficient dates to confirm",,,1
+11204,Ni Zan,1301.0,1374.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11209,Li Di,1100.0,1197.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11236,Ma Yuan,1150.0,1255.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11246,Wang Yuan,,1371.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+11259,Yan Ciping,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11269,Xie Huan,1365.0,1455.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11288,Kitagawa Sōsetsu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11300,Kenkō Shōkei,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11678,Leo Castelli,,,ambiguous,"same name, insufficient dates to confirm",,,1
+11700,René Cresson,1705.0,1749.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11703,Jean-Baptiste II Tilliard,,1797.0,ambiguous,"same name, insufficient dates to confirm",,,1
+11770,Leonard Boudin,1735.0,1804.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11782,Beauvais,,,ambiguous,"same name, insufficient dates to confirm",,,1
+1180,Federico Barocci,1528.0,1612.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+11894,Felice Clerici,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12039,Wolfgang Huber,1490.0,1553.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12127,Simon Feilner,,1798.0,ambiguous,"same name, insufficient dates to confirm",,,1
+12158,Jean-Joseph Barrière,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12271,Etienne Evans,1733.0,1806.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12292,Martin Schongauer,1450.0,1491.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12305,Camillo Procaccini,1546.0,1629.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+1233,Jan van Aken,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12435,Lievin Cruyl,1640.0,1720.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12627,Franz Xaver Habermann,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12707,Richard Müller,1874.0,1930.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12713,Emil Nolde,1876.0,1956.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+12728,Veuve Perrin Factory,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12792,François-Joseph Aloncle,,,ambiguous,"same name, insufficient dates to confirm",,,1
+12826,Juvenal Sanso,1929.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+12914,Robert Joseph Auguste,1723.0,1795.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+1292,Alfred Rosling,1802.0,1889.0,ambiguous,"same name, insufficient dates to confirm",,,1
+13041,Sieuwert van der Meulen,,1730.0,ambiguous,"same name, insufficient dates to confirm",,,1
+13044,Hendrik Meijer,1737.0,1793.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+1307,John Brown,1752.0,1787.0,ambiguous,"same name, insufficient dates to confirm",,,3
+13133,Jan Hackaert,1629.0,1700.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+1316,Joseph Goupy,1686.0,1770.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+13176,Jan Groth,1938.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+13275,Alexandre Bida,1823.0,1895.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+13425,Constantin Guys,1805.0,1892.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+13579,Jean Julien Lemordant,1882.0,1968.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+13615,Jean Baptiste Claude Odiot,,,ambiguous,"same name, insufficient dates to confirm",,,1
+13634,Antoine Tard,1800.0,1889.0,ambiguous,"same name, insufficient dates to confirm",,,1
+13751,Jane Poupelet,1878.0,1932.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+13926,Henry Adnet,,1745.0,ambiguous,"same name, insufficient dates to confirm",,,1
+14055,Hukin & Heath,,,ambiguous,"same name, insufficient dates to confirm",,,1
+14095,William Anthony,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+1429,Norman Ackroyd,1938.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+14348,Walter R. Rogalski,1923.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+14372,James Hadley,,,ambiguous,"same name, insufficient dates to confirm",,,1
+14516,Adrien Faizelot Delorme,,,ambiguous,"same name, insufficient dates to confirm",,,1
+14803,John Pearson,1940.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+1495,Richard Principal Leitch,1844.0,1865.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+15258,Walt Kuhn,1880.0,1949.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+15636,Adam Weisweiler,1750.0,1810.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+16327,Daniel Marot,1655.0,1718.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+16335,Nicolaes Clock,,,ambiguous,"same name, insufficient dates to confirm",,,1
+16343,Giuseppe Scolari,,,ambiguous,"same name, insufficient dates to confirm",,,1
+16724,"Bakewell, Pears and Company",,,ambiguous,"same name, insufficient dates to confirm",,,1
+1682,Louis Hersent,1777.0,1860.0,ambiguous,"same name, insufficient dates to confirm",,,1
+16855,Quezal Art Glass and Decorating Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+16934,Hashim,,,ambiguous,"same name, insufficient dates to confirm",,,1
+17213,Cartier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+17239,Auguste Belloc,1801.0,1868.0,ambiguous,"same name, insufficient dates to confirm",,,1
+17246,Charles Cushing Wright,,1853.0,ambiguous,"same name, insufficient dates to confirm",,,1
+17277,Du Jin,1446.0,1524.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+17452,Frank Bowcher,1864.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+17470,Hermon Atkins MacNeil,1886.0,1947.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+174789,The Metropolitan Museum of Art,,,ambiguous,"same name, insufficient dates to confirm",,,1
+17586,Arthur Graham Carey,1892.0,1984.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+17734,Gorham Manufacturing Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+17861,Wheeler Williams,1897.0,1972.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+17880,Abram Belskie,1901.0,1988.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+17908,Paul Fjelde,1892.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+18291,Josiah Wedgwood and Sons,,,ambiguous,"same name, insufficient dates to confirm",,,1
+18341,Giovanni Battista,,,ambiguous,"same name, insufficient dates to confirm",,,1
+18383,Luigi Cossa,1789.0,1867.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+18463,Bow Porcelain Factory,,,ambiguous,"same name, insufficient dates to confirm",,,1
+18510,"Royal Porcelain Manufactory, Berlin",,,ambiguous,"same name, insufficient dates to confirm",,,1
+18542,Louis-Jean Thévenet pere,1708.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+18633,Whitney Atchley,1908.0,1955.0,ambiguous,"same name, insufficient dates to confirm",,,1
+18726,Daniel Farber,1906.0,1988.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+18766,Jacob Petit,,,ambiguous,"same name, insufficient dates to confirm",,,1
+1899,Corneille de Lyon,1500.0,1574.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+19335,Johannes Zeschinger,1723.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+19350,John Voyez,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19443,Nicolas Bulidon,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19472,Olerys Factory,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19534,Emile Muller,,1889.0,ambiguous,"same name, insufficient dates to confirm",,,2
+19542,Rookwood Pottery Company,1880.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+19604,Dedham Pottery,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19624,Bing & Grøndahl,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19713,Pewabic Pottery,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19852,Faience Manufacturing Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+19914,Richard DeVore,1933.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+19981,Joseph T. Keiley,1969.0,1914.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+19987,Frederick H. Pratt,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20017,Van Cleef & Arpels,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20029,William E. Hentschel,1907.0,1939.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+20050,Peter Callas,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20105,Warren MacKenzie,1924.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+20286,Ivan Mestrovic,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2032,Berlinghiero,,1242.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+20474,Thomas Ash,,,ambiguous,"same name, insufficient dates to confirm",,,2
+20484,Samuel Herbert,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20557,François Briot,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20563,John Andrew,1747.0,1791.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+20617,Cary Dunn,,1798.0,ambiguous,"same name, insufficient dates to confirm",,,1
+20671,Rufus Farnam,1771.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+20918,John Burt Lyng,,1785.0,ambiguous,"same name, insufficient dates to confirm",,,1
+20927,Zsolnay Factory,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20933,Baccarat glasshouse,,,ambiguous,"same name, insufficient dates to confirm",,,1
+20958,Daniel Rogers,1735.0,1816.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+20986,Thomas Shields,,,ambiguous,"same name, insufficient dates to confirm",,,1
+21109,Thomas Sparrow,1746.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+21129,Ebenezer Coker,,,ambiguous,"same name, insufficient dates to confirm",,,1
+21172,John Coverly,,1800.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+21195,Samuel Wood,,,ambiguous,"same name, insufficient dates to confirm",,,2
+21254,George Smith,,,ambiguous,"same name, insufficient dates to confirm",,,5
+21340,Hester Bateman,1709.0,1794.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+21358,William Fearn,,,ambiguous,"same name, insufficient dates to confirm",,,1
+21383,Thomas Whipham,,,ambiguous,"same name, insufficient dates to confirm",,,1
+21514,Thomas Arnold,1734.0,1828.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+21578,Henry Greenway,,,ambiguous,"same name, insufficient dates to confirm",,,2
+21604,John Chartier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+21640,Edward Wakelin,,1784.0,ambiguous,"same name, insufficient dates to confirm",,,1
+2181,Giovanni di Paolo,1403.0,1482.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2191,Jacometto Veneziano,,1497.0,ambiguous,"same name, insufficient dates to confirm",,,1
+22157,Pieter van der Heyden,1530.0,1575.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+223,Antonio Beato,1834.0,1903.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2233,Lippo Memmi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+22402,Allaert Claesz.,1508.0,1534.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22453,Battista Franco,1498.0,1561.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22516,James Bretherton,,1844.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22529,"Reinier Nooms, called Zeeman",1623.0,1667.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22610,Pieter van Laer,1592.0,1642.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22668,Albert Louis Dammouse,,,ambiguous,"same name, insufficient dates to confirm",,,1
+22754,Gakuō Zōkyū,,,ambiguous,"same name, insufficient dates to confirm",,,1
+22786,Qiu Ying,1494.0,1552.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22791,Yin Hong,1425.0,1505.0,ambiguous,"same name, insufficient dates to confirm",,,1
+22859,Liu Jie,1442.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22888,Xie Shichen,1487.0,1572.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+22906,Master ES,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23153,Albert Flamen,1620.0,1669.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23185,Master W with the Key,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23194,Nicolaes Rijckmans,1616.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23262,Lan Ying,1585.0,1669.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23427,Isoda Koryūsai,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23465,Dirck Stoop,1618.0,1681.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2352,Ugolino di Nerio,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23632,Harry Powell,1835.0,1922.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23637,Cui Zizhong,1574.0,1644.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23645,Nicolai Cikovsky,1894.0,1934.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2371,Juan de Flandes,1460.0,1519.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23727,Fan Kuan,960.0,1035.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23754,Li Jian,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23761,Gong Xian,1599.0,1689.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23814,Marisol Escobar,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+23831,Edith Newton,1878.0,1946.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23933,Zoan Andrea,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23936,Jacopo Ligozzi,1543.0,1632.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23948,Jacopo de' Barbari,1455.0,1520.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23955,Bartolomeo Biscaino,1632.0,1657.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+23981,Giovanni Antonio da Brescia,,,ambiguous,"same name, insufficient dates to confirm",,,1
+23996,Alessandro Gandini,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24036,Benedetto Montagna,1481.0,1558.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+24049,Master of the Beheading of St. John the Baptist,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24052,Master of the Die,1512.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+24070,Girolamo Mocetto,1458.0,1531.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+24087,Lucantonio degli Uberti,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24283,Nicoletto da Modena,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24394,Domenico Maria Canuti,1620.0,1684.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2440,Hans Leonhard Schäufelein,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2446,Herman van Swanevelt,1600.0,1655.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+24528,John Collins,,,ambiguous,"same name, insufficient dates to confirm",,,4
+24531,Bannister Hall,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24699,Vittore Carpaccio,1455.0,1526.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+24785,Bianchini Férier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+24788,Charles Martin,1848.0,1934.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+25153,Isaac Oliver,1565.0,1617.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2526,Gerard David,1450.0,1523.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2529,Master of the Holy Blood,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2538,Joseph Blackburn,,1778.0,ambiguous,"same name, insufficient dates to confirm",,,1
+25503,Shafi' Abbasi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+25509,Mir Musavvir,1510.0,1555.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25576,Wiener Werkstätte,,,ambiguous,"same name, insufficient dates to confirm",,,1
+25582,Dosso Dossi,1490.0,1541.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25641,Hans Brosamer,1500.0,1554.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25664,Ludolph Büsinck,1590.0,1669.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2576,Jacques Thouron,1740.0,1789.0,ambiguous,"same name, insufficient dates to confirm",,,1
+25767,Paul Flindt,,,ambiguous,"same name, insufficient dates to confirm",,,1
+25832,Hanns Lautensack,1524.0,1566.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25867,Eugen Napoleon Neureuther,1806.0,1862.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25925,Florian Grospietsch,1789.0,1840.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+25989,Günther Zainer,,1478.0,ambiguous,"same name, insufficient dates to confirm",,,1
+25992,Bernhard Zan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2608,William Jewett,1789.0,1874.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26087,Hieronymus Hopfer,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26094,Lambert Hopfer,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26134,Niccolo dell' Abbate,1512.0,1571.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26141,Lelio Orsi,1511.0,1587.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26178,Mair von Landshut,,1520.0,ambiguous,"same name, insufficient dates to confirm",,,1
+26181,Master AG,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26200,Master FVB,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26206,Master I. E.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26212,Master MZ,,,ambiguous,"same name, insufficient dates to confirm",,,1
+26307,Konrad Klapheck,1935.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+26323,Bruno Krauskopf,1892.0,1962.0,ambiguous,"same name, insufficient dates to confirm",,,1
+26356,Hans Springinklee,,1540.0,ambiguous,"same name, insufficient dates to confirm",,,1
+2636,Dieric Bouts,1415.0,1475.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26462,Mariano Fortuny,1838.0,1874.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26571,Jacopo Chimenti,1554.0,1640.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+26888,William Barnard,1774.0,1849.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27007,Matthew Darly,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27010,Mary Darly,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27013,Philip Dawe,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27046,Robert Dunkarton,1744.0,1817.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27061,John Edwards,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27076,Edward Fisher,1722.0,1785.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27095,Henry Fletcher,,1738.0,ambiguous,"same name, insufficient dates to confirm",,,1
+27111,Ethel Leontine Gabain,1883.0,1958.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27164,Francis Grant,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2726,Herri met de Bles,1510.0,1572.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27273,Robert Havell,1769.0,1832.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27301,Associated American Artists,,1981.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27440,Thomas Major,1714.0,1799.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27604,Robert Sayer,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27626,Smith,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27704,William Ward,1776.0,1826.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27850,Jean Damascene Sallusti,,1781.0,ambiguous,"same name, insufficient dates to confirm",,,1
+27911,Gyula Derkovits,1884.0,1934.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+27942,Joseph de Montalegre,,,ambiguous,"same name, insufficient dates to confirm",,,1
+27987,Menashe Kadishman,1932.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+28198,François Aubertin,1773.0,1882.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+282197,Sesson Shūkei,,,ambiguous,"same name, insufficient dates to confirm",,,1
+28221,Pierre Alexandre Aveline,1710.0,1760.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2829,Jan Gossaert,1475.0,1532.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+283461,Atelier 17,,,ambiguous,"same name, insufficient dates to confirm",,,1
+283702,Motsurin Jōtō,,1492.0,ambiguous,"same name, insufficient dates to confirm",,,1
+28382,Adrien Nargeot,1837.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+286640,Basawan​,1516.0,1636.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+287461,John Wesley,1928.0,,ambiguous,"same name, insufficient dates to confirm",,,2
+287501,Mel Ramos,1935.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+287803,Chitarman II,1680.0,1750.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+28819,Frédéric Bouchot,,,ambiguous,"same name, insufficient dates to confirm",,,1
+28835,Pierre Bourdon,,,ambiguous,"same name, insufficient dates to confirm",,,1
+288357,Muhammad Ali,,1620.0,ambiguous,"same name, insufficient dates to confirm",,,1
+28907,Frédéric Cazenave,,,ambiguous,"same name, insufficient dates to confirm",,,1
+28925,Pierre Chenu,1718.0,1780.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+28943,Paul Colin,1867.0,1949.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+28950,Louis Crépy,,,ambiguous,"same name, insufficient dates to confirm",,,1
+289572,Abd al-Vahhab,,,ambiguous,"same name, insufficient dates to confirm",,,1
+289806,Peter Phillips,1939.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+290499,Roman Vishniac,1897.0,1997.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+291514,Charles Soulier,1830.0,1900.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+29214,Marc Dautry,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+292194,Tiffany Studios,,,ambiguous,"same name, insufficient dates to confirm",,,1
+292643,Bianchini-Férier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+292983,Yuan Yao,1700.0,1800.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+2930,Abraham Hondius,1625.0,1695.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+29369,Philip Pearlstein,1924.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+29458,Ercole Bazicaluva,1610.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+29539,Henry Bonaventure Monnier,1805.0,1877.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+29551,Jean Morin,1600.0,1650.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+296654,Irwin Hollander,1927.0,2018.0,ambiguous,"same name, insufficient dates to confirm",,,1
+29680,François Girard,1787.0,1870.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+296852,Jan Crocq,1456.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+29692,Edmond Gosselin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+29695,Jean de Gourmont,,,ambiguous,"same name, insufficient dates to confirm",,,1
+297123,Adam van Vianen,1559.0,1627.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+297547,Nishimura Shigenaga,,,ambiguous,"same name, insufficient dates to confirm",,,1
+29779,Evelyn A. Pitshke,1884.0,1980.0,ambiguous,"same name, insufficient dates to confirm",,,1
+29809,Thomas de Leu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+2984,Hans Memling,,1494.0,ambiguous,"same name, insufficient dates to confirm",,,1
+299400,Hieronymus Cock,1500.0,1570.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+30066,Alfred Dawson,,,ambiguous,"same name, insufficient dates to confirm",,,1
+300663,Maw & Co.,1850.0,1969.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+30162,Zhou Wenju,,,ambiguous,"same name, insufficient dates to confirm",,,1
+30184,E. Weyhe,,,ambiguous,"same name, insufficient dates to confirm",,,1
+301898,Sylvia Sleigh,1911.0,2010.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+30243,Joe Goode,1937.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+30249,David Shapiro,1944.0,2014.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+30457,Olivetan Master,,,ambiguous,"same name, insufficient dates to confirm",,,1
+30530,Louis Orr,1879.0,1966.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+306195,Wingate Studio,,,ambiguous,"same name, insufficient dates to confirm",,,1
+306250,Berlin Painter,-540.0,-445.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+306955,Louis-Nicolas van Blarenberghe,1716.0,1812.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+30770,Thomas Gentille,1936.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+30807,Nonomura Ninsei,,,ambiguous,"same name, insufficient dates to confirm",,,1
+30834,Magdalena Abakanowicz,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+30841,Benedetto Bordone,,,ambiguous,"same name, insufficient dates to confirm",,,1
+308674,Shark's Ink,,,ambiguous,"same name, insufficient dates to confirm",,,1
+310152,Pyramid Atlantic,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31132,Yu Yuan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+311760,Scowen & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31189,Li Anzhong,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31202,Zhang Ruoai,1713.0,1746.0,ambiguous,"same name, insufficient dates to confirm",,,1
+31221,Kuncan,1612.0,1678.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+31241,David Lang,,,ambiguous,"same name, insufficient dates to confirm",,,1
+312463,Wilhelm Pleydenwurff,1450.0,1494.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+31384,Zhang Feng,,,ambiguous,"same name, insufficient dates to confirm",,,1
+314169,Hervé Télémaque,1937.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+31440,Wu Bing,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31450,Zhang Yuehu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31474,Liang Kai,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31479,Qian Xuan,1235.0,1307.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+315074,Ruknuddin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31513,Puming,,1329.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+315261,The Arion Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+315331,Ghasi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+315332,Chokha,1770.0,1830.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+31534,Xia Gui,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31589,Samuel L. Margolies,1879.0,1974.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+31663,Peter Miller,1945.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+31683,John Austin Sands Monks,,,ambiguous,"same name, insufficient dates to confirm",,,1
+317384,Nordiska Kompaniet,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31755,Carl Schmidt,1889.0,1989.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+317892,Two Palms Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31804,Ben Schonzeit,1942.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+31919,Dennis Hopper,1936.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+319838,Studio Prints,,,ambiguous,"same name, insufficient dates to confirm",,,1
+31990,Charles Smith,1893.0,1987.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+3219,Ben Nicholson,1894.0,1978.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+32250,"C. M. Gourdon, Inc.",,,ambiguous,"same name, insufficient dates to confirm",,,1
+322989,Vasco Ascolini,1937.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+32313,"Brooke Cadwallader, Inc.",,,ambiguous,"same name, insufficient dates to confirm",,,1
+32316,Celanese Corporation of America,,,ambiguous,"same name, insufficient dates to confirm",,,1
+32322,"Galey and Lord, Inc.",,,ambiguous,"same name, insufficient dates to confirm",,,1
+32331,"Wesley Simpson, Inc.",,,ambiguous,"same name, insufficient dates to confirm",,,1
+32378,F. Schumacher and Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+32491,George Parker,,1868.0,ambiguous,"same name, insufficient dates to confirm",,,2
+32507,Ralph M. Pearson,1883.0,1958.0,ambiguous,"same name, insufficient dates to confirm",,,1
+325235,Giovanni Antonio da Brescia,1450.0,1530.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+3264,Guy Rose,1867.0,1925.0,ambiguous,"same name, insufficient dates to confirm",,,1
+32765,Torii Kiyonobu II,1706.0,1763.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+32774,Tōshūsai Sharaku,,,ambiguous,"same name, insufficient dates to confirm",,,1
+32783,Stephen Greeley Putnam,1852.0,1938.0,ambiguous,"same name, insufficient dates to confirm",,,1
+32896,Elbridge Kingsley,1841.0,1915.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+329311,Pieter de Grebber,1590.0,1663.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+329321,Jan van Kessel,1641.0,1680.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+33033,John W. Winkler,1890.0,1979.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+33059,Joe Deal,1947.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+33373,Pierre Josse Perrot,,,ambiguous,"same name, insufficient dates to confirm",,,1
+33473,Monogrammist DB,,,ambiguous,"same name, insufficient dates to confirm",,,1
+33543,Wang Gai,,1705.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+3375,Walter Darby Bannard,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+33868,S. Curtis,,,ambiguous,"same name, insufficient dates to confirm",,,1
+33889,Jake Berthot,1939.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+33933,David Reed,,,ambiguous,"same name, insufficient dates to confirm",,,1
+33977,Ken Kiff,1935.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+34075,Charles Clifford,1819.0,1883.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+34177,Rudy Autio,1926.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+34192,Jerome,,,ambiguous,"same name, insufficient dates to confirm",,,1
+34238,Shōtei Hokuju,1763.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+34241,Shunbaisai Hokuei,,1837.0,ambiguous,"same name, insufficient dates to confirm",,,1
+34263,Gosōtei Hirosada,,,ambiguous,"same name, insufficient dates to confirm",,,1
+34401,Nakamura Hōchū,,1819.0,ambiguous,"same name, insufficient dates to confirm",,,1
+3444,Janet Fish,1938.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+34675,Eishōsai Chōki,,,ambiguous,"same name, insufficient dates to confirm",,,1
+34681,Ippitsusai Bunchō,,,ambiguous,"same name, insufficient dates to confirm",,,2
+34684,Gigadō Ashiyuki,,,ambiguous,"same name, insufficient dates to confirm",,,2
+347610,Jean Clouet,1485.0,1540.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+348127,Crispijn de Passe the Elder,1555.0,1637.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35121,Torii Kiyohiro,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35124,Torii Kiyomasu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35261,Utagawa Sadakage,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35279,Katsukawa Shunchō,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35294,Katsukawa Shunjō,,1787.0,ambiguous,"same name, insufficient dates to confirm",,,1
+35348,Katsukawa Shunzan,,1841.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35354,Nishikawa Sukenobu,1671.0,1754.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35357,Katsushika Taito II,,,ambiguous,"same name, insufficient dates to confirm",,,2
+35360,Utagawa Toyohiro,1733.0,1828.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35377,Shikibu Terutada,,1575.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35414,Yamada Dōan,,1571.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35474,Ikeda Eisen,1790.0,1848.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35505,Kitao Masayoshi,1761.0,1824.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35523,Kusumi Morikage,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35530,Kita Genki,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35665,Fang Yulu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35668,Cheng Junfang,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35683,Aoki Shukuya,,1802.0,ambiguous,"same name, insufficient dates to confirm",,,1
+35686,Soga Nichokuan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35805,Hu Zhengyan,1584.0,1674.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35808,Kuniyoshi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35890,Matsuno Chikanobu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+35905,Ikeda Taishin,1829.0,1903.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35908,Koikawa Harumasa,,,ambiguous,"same name, insufficient dates to confirm",,,1
+359190,Naples Painter,-490.0,-390.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+35934,Tsukioka Sessai,,1839.0,ambiguous,"same name, insufficient dates to confirm",,,1
+36091,Yoshitoshi Mori,,,ambiguous,"same name, insufficient dates to confirm",,,1
+36651,Yōgetsu,,,ambiguous,"same name, insufficient dates to confirm",,,2
+36657,Unkei Eii,,,ambiguous,"same name, insufficient dates to confirm",,,1
+36765,Mackenzie,,,ambiguous,"same name, insufficient dates to confirm",,,1
+367963,Edmond Deman,,,ambiguous,"same name, insufficient dates to confirm",,,1
+368701,Yintuoluo,1280.0,1360.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+368710,Aux Quatre Vents,,,ambiguous,"same name, insufficient dates to confirm",,,1
+36891,John Tinkey,1940.0,1901.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+36894,John Sartain,,,ambiguous,"same name, insufficient dates to confirm",,,1
+37019,Haskell & Allen,,,ambiguous,"same name, insufficient dates to confirm",,,1
+370294,Pendleton's Lithography,,,ambiguous,"same name, insufficient dates to confirm",,,1
+370474,Weyhe Gallery,,,ambiguous,"same name, insufficient dates to confirm",,,2
+371024,Bank Street Atelier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+372084,Shunkōsai Hokushū,,,ambiguous,"same name, insufficient dates to confirm",,,1
+373368,José Sanchez,,,ambiguous,"same name, insufficient dates to confirm",,,3
+37497,Victor Laisné,1825.0,1897.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+375232,Lucas van Doetecum,,1572.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+37747,Pierre-Antoine Baudouin,1723.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+377500,Telephos Painter,-515.0,-420.0,ambiguous,"same name, insufficient dates to confirm",,,1
+377502,Shuvalov Painter,-490.0,-390.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+377809,Cal Kowal,1944.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+37802,Baccio Baldini,,1487.0,ambiguous,"same name, insufficient dates to confirm",,,1
+3783,Ulfert Wilke,1907.0,1987.0,ambiguous,"same name, insufficient dates to confirm",,,1
+378716,Pistoxenos Painter,-505.0,-405.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+379256,Leagros Group,-550.0,-480.0,ambiguous,"same name, insufficient dates to confirm",,,1
+379259,Edinburgh Painter,-540.0,-450.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+379263,Cleveland Painter,-515.0,-420.0,ambiguous,"same name, insufficient dates to confirm",,,1
+379290,Tityos Painter,-560.0,-460.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+379294,Clusium Group,-500.0,-250.0,ambiguous,"same name, insufficient dates to confirm",,,1
+380079,Johannes Kip,,,ambiguous,"same name, insufficient dates to confirm",,,1
+380591,De Gouy,1670.0,1830.0,ambiguous,"same name, insufficient dates to confirm",,,1
+380815,Crevel Frères,,,ambiguous,"same name, insufficient dates to confirm",,,1
+380878,François Delarue,,,ambiguous,"same name, insufficient dates to confirm",,,1
+3822,Howard Ben Tré,1949.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+38301,Angelo de Rossi,,,ambiguous,"same name, insufficient dates to confirm",,,2
+38411,Dan Budnik,1933.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+38414,Ernst Haas,1928.0,1986.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+38423,Inge Morath,1923.0,2002.0,ambiguous,"same name, insufficient dates to confirm",,,1
+38447,Salvatore Grippi,1921.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+38541,Fang Congyi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+38554,Fance Franck,,,ambiguous,"same name, insufficient dates to confirm",,,1
+385940,Gunther Gerzso,1915.0,2015.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+386016,Fontana Family,,,ambiguous,"same name, insufficient dates to confirm",,,1
+386323,William Pryor Floyd,1834.0,1900.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+38646,Beatrice Riese,,,ambiguous,"same name, insufficient dates to confirm",,,1
+38718,Francesco Rosselli,1448.0,1513.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+38721,Giovanni Antonio da Brescia,,,ambiguous,"same name, insufficient dates to confirm",,,1
+38836,Jacques-François Blondel,1705.0,1744.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+390259,"Rundell, Bridge and Rundell",1797.0,1834.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+390687,Ōhara Donshū,,1857.0,ambiguous,"same name, insufficient dates to confirm",,,1
+39129,Gemini G.E.L.,,,ambiguous,"same name, insufficient dates to confirm",,,2
+392759,Josiah Wedgwood and Sons,,,ambiguous,"same name, insufficient dates to confirm",,,1
+392842,Wedgwood and Bentley,,,ambiguous,"same name, insufficient dates to confirm",,,1
+394813,Painter of London E 55,,,ambiguous,"same name, insufficient dates to confirm",,,1
+39488,Nicolas de Larmessin II,1638.0,1694.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+39525,Nicolas Lavreince,,,ambiguous,"same name, insufficient dates to confirm",,,1
+39626,Francesco Bertelli,,,ambiguous,"same name, insufficient dates to confirm",,,1
+39658,Rudolf Bauer,1889.0,1953.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+40040,Dalziel Brothers,,,ambiguous,"same name, insufficient dates to confirm",,,1
+40054,Giovanni Pietro da Birago,,,ambiguous,"same name, insufficient dates to confirm",,,1
+401110,Carlo Nolli,1690.0,1790.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4013,Harry Fenn,1838.0,1911.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+40624,Master of the Small Landscapes,,1561.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+40675,Nausicaa Painter,,,ambiguous,"same name, insufficient dates to confirm",,,1
+40800,Master of the E-Series Tarocchi,,1499.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+40976,Johann Joachim Kändler,1706.0,1768.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+40988,Anne Allen,,,ambiguous,"same name, insufficient dates to confirm",,,1
+41025,Langlois,,,ambiguous,"same name, insufficient dates to confirm",,,1
+41031,Louis Charles Ruotte,1754.0,1806.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+41037,Louis Aubert,,,ambiguous,"same name, insufficient dates to confirm",,,1
+4139,Léon Gérard,,,ambiguous,"same name, insufficient dates to confirm",,,1
+41461,Edouard Bouvenne,,,ambiguous,"same name, insufficient dates to confirm",,,1
+415,G. B. Gething,,,ambiguous,"same name, insufficient dates to confirm",,,1
+4163,Ann Parker,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+4187,Robert Davis,1945.0,1981.0,ambiguous,"same name, insufficient dates to confirm",,,1
+421,Gilbert and George,,,ambiguous,"same name, insufficient dates to confirm",,,1
+42230,Thomas H. Johnson,1821.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+42290,Nihal Chand,,,ambiguous,"same name, insufficient dates to confirm",,,1
+423620,Master W. with the Key,1435.0,1515.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+42714,Bihzad,,,ambiguous,"same name, insufficient dates to confirm",,,1
+42748,Robert Morris,1931.0,2018.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+43406,"Elenhank Designers, Inc.",1946.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+437716,Domenico dalle Greche,1503.0,1603.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+438109,Case Hudson,1968.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+438413,Sirocco Screenprints,,,ambiguous,"same name, insufficient dates to confirm",,,1
+438438,Leicester Galleries,,,ambiguous,"same name, insufficient dates to confirm",,,1
+438658,Luther Davis,,,ambiguous,"same name, insufficient dates to confirm",,,1
+439179,Clement de Jonghe,1579.0,1679.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+439342,Orazio Borgianni,1568.0,1616.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+439461,Rufus Anson,1820.0,1900.0,ambiguous,"same name, insufficient dates to confirm",,,1
+44099,Grand Rapids Chair Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+441157,Peeter van der Borcht,1535.0,1608.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,2
+445052,Michiel van Overbeek,,,ambiguous,"same name, insufficient dates to confirm",,,1
+44738,Cecco Bravo,1607.0,1661.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+44776,Raphael Sadeler,1560.0,1632.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+447979,Print Club of New York,,,ambiguous,"same name, insufficient dates to confirm",,,1
+448,Andreas Groll,1812.0,1872.0,ambiguous,"same name, insufficient dates to confirm",,,1
+449075,Martin Rakotoarimanana,1969.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+449113,Daniel Rafidison,1963.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+449954,Rondro Faravololona,,,ambiguous,"same name, insufficient dates to confirm",,,1
+45303,Eikoh Hosoe,1933.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+454573,Julien Antoine Peulot,1827.0,1927.0,ambiguous,"same name, insufficient dates to confirm",,,1
+45713,James Hopwood,1795.0,,ambiguous,"same name, insufficient dates to confirm",,,2
+457161,Destouches,,,ambiguous,"same name, insufficient dates to confirm",,,2
+457164,Arnaud de Vresse,,,ambiguous,"same name, insufficient dates to confirm",,,1
+457179,Walter Frères,,,ambiguous,"same name, insufficient dates to confirm",,,1
+45719,Samuel Fisher,,,ambiguous,"same name, insufficient dates to confirm",,,1
+45722,J. Hollis,,,ambiguous,"same name, insufficient dates to confirm",,,1
+457381,Georges Francois Blondel,1730.0,1800.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+457390,Athena Painter,-540.0,-445.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4579,Marcantonio Raimondi,1470.0,1534.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+45863,Yasuhide Kobashi,1931.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+4608,Giulio Romano,1492.0,1546.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4629,Marco Dente,1486.0,1527.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4648,Andrea Schiavone,1500.0,1563.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4656,Andrea Andreani,,,ambiguous,"same name, insufficient dates to confirm",,,1
+4666,Nicolo della Casa,,,ambiguous,"same name, insufficient dates to confirm",,,1
+46689,William Scott,,,ambiguous,"same name, insufficient dates to confirm",,,3
+4678,René Boyvin,1525.0,1580.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4681,Robert Boissard,1570.0,1603.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+46814,Elkington & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,2
+46829,Praxiteles,-400.0,-330.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4687,Nicolas Beatrizet,,,ambiguous,"same name, insufficient dates to confirm",,,1
+4690,Pierre Milan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+46913,Harrison,,,ambiguous,"same name, insufficient dates to confirm",,,2
+4693,Jean Mignon,,,ambiguous,"same name, insufficient dates to confirm",,,1
+46981,Adolphe Rouargue,1810.0,1870.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+4701,Léon Davent,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47083,Moravian Pottery and Tile Works,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47214,Mariette Rousseau Vermette,1926.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+47238,Lemercier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47400,Stehli Silks Corporation,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47411,H. R. Mallinson and Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47615,Joseph Constantine Stadler,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47622,John Girtin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+47717,Henry George Rushbury,1880.0,1968.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+48007,Julian Martinez,1879.0,1943.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+49123,Don Nice,1932.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+49407,Henry Winkles,1801.0,1900.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+49920,Raoul du Gardier,1871.0,1952.0,ambiguous,"same name, insufficient dates to confirm",,,1
+50076,Genga,,1599.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+50426,A. H. Heisey & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5110,Diego de Çaias,1535.0,1560.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+51193,Sal Lopes,1943.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+51249,The Kalo Shop,,,ambiguous,"same name, insufficient dates to confirm",,,1
+51465,Giuseppe de Levis,,1605.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+51709,Frederick Fiebig,,,ambiguous,"same name, insufficient dates to confirm",,,1
+51825,Simon Marmion,1420.0,1489.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+518654,Giovanni Battista Lusieri,1750.0,1825.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+518898,Piero della Francesca,1405.0,1492.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+52242,John Jackson,1955.0,2006.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,3
+522772,Master of the Egmont Albums,1480.0,1620.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+522853,Luca Signorelli,1436.0,1523.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+523232,Hugh Douglas Hamilton,1729.0,1808.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+523621,Ruth Raemisch,1893.0,1966.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+52447,Jennifer Melby,,,ambiguous,"same name, insufficient dates to confirm",,,1
+52979,Sigmund Abeles,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+53086,Christoffel van Sichem,1577.0,1658.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+53289,Georges Darcy,,,ambiguous,"same name, insufficient dates to confirm",,,1
+53328,Auguste H. Thomas,,,ambiguous,"same name, insufficient dates to confirm",,,1
+53562,Galerie Louise Leiris,,,ambiguous,"same name, insufficient dates to confirm",,,1
+535837,London Stereoscopic and Photographic Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+536378,Lemuel Francis Abbott,1750.0,1803.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+536381,Francesco Francia,1440.0,1517.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+53730,Adolphe Yvon,1817.0,1893.0,ambiguous,"same name, insufficient dates to confirm",,,1
+53782,Pierre Alexandre Wille,1748.0,1837.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+538227,Kleophon Painter,-460.0,-360.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+538329,Cornelis Bos,1500.0,1566.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5384,Jean II Pénicaud,1520.0,1588.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+538427,Bourne & Shepherd,,,ambiguous,"same name, insufficient dates to confirm",,,1
+539089,Richard Caton Woodville,1825.0,1855.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+539103,Currier & Ives,1834.0,1907.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+54,Thomas Brown,1940.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+540238,Gillis Hendricx,1570.0,1700.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+540243,Martinus van den Enden,1580.0,1690.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+540561,Bart Parker,1934.0,2013.0,ambiguous,"same name, insufficient dates to confirm",,,1
+5419,Francesco Xanto Avelli,1487.0,1544.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+542,James Knight,,,ambiguous,"same name, insufficient dates to confirm",,,1
+543028,Ken Scott,1918.0,1991.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+54335,Pinton S.A.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+54618,Vernon Kilns,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5489,Tobias Wolff,,1606.0,ambiguous,"same name, insufficient dates to confirm",,,1
+55084,James Cox,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5541,Haviland & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+55539,Daum Frères,,,ambiguous,"same name, insufficient dates to confirm",,,1
+55726,Tiffany Glass & Decorating Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+559,Joseph Lawton,,1874.0,ambiguous,"same name, insufficient dates to confirm",,,1
+56240,William Larson,1945.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+56365,Louise Fishman,1939.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+5646,Tamarind Institute,,,ambiguous,"same name, insufficient dates to confirm",,,1
+56552,Laurent Guyot,1756.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+56594,Frédéric Florian,1858.0,1926.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5670,Pompeo della Cesa,,1593.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+56743,Vally Wieselthier,1885.0,1945.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+56824,Jules-Constant Peyre,1811.0,1870.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5696,Hans Jamnitzer,1538.0,1603.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+56977,Varujan Boghosian,,,ambiguous,"same name, insufficient dates to confirm",,,1
+57066,Carol Summers,1925.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57109,Louis-Denis Armand,,,ambiguous,"same name, insufficient dates to confirm",,,1
+57115,Pierre Blondeau,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5717,Tiziano Minio,1511.0,1552.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+57179,"Barr, Flight & Barr",,,ambiguous,"same name, insufficient dates to confirm",,,1
+5736,Master of the Birth of Venus,,,ambiguous,"same name, insufficient dates to confirm",,,1
+57413,Barry Le Va,1941.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57419,Joe Zucker,1941.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57530,Thomas Nozkowski,1944.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57578,Pierre-Jacques Volaire,1729.0,1802.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5760,Francesco Fanelli,,1661.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+57600,Irving Petlin,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57606,Walter de Maria,1935.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+57612,Julien Levy,1910.0,1981.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+57624,James Lee Byars,1940.0,1997.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+57684,Enrico Baj,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5769,Cristoforo di Geremia,,1476.0,ambiguous,"same name, insufficient dates to confirm",,,1
+57731,Edward Fitzgerald,1927.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+57847,Gil de Siloé,,1501.0,ambiguous,"same name, insufficient dates to confirm",,,1
+5786,Robert Robin,1742.0,1799.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5819,Herter Brothers,,,ambiguous,"same name, insufficient dates to confirm",,,1
+58244,Pierre-André Montauban,,,ambiguous,"same name, insufficient dates to confirm",,,1
+58261,Mary Heilmann,1940.0,2026.0,ambiguous,"same name, insufficient dates to confirm",,,1
+58485,Guillaume Le Rouge,,1517.0,ambiguous,"same name, insufficient dates to confirm",,,1
+5850,Jean-Baptiste Clésinger,1814.0,1883.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+58658,Agnes Denes,1938.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+58845,Reed & Barton,,,ambiguous,"same name, insufficient dates to confirm",,,1
+58848,Libbey Glass Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+58883,Riza-yi Abbasi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+58971,Richard Smith,,,ambiguous,"same name, insufficient dates to confirm",,,2
+59129,Sultan Muhammad,,,ambiguous,"same name, insufficient dates to confirm",,,1
+5920,Joseph Meeks and Sons,,,ambiguous,"same name, insufficient dates to confirm",,,1
+59393,Marcus & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+59475,George L. Thompson,1913.0,1981.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5952,Sesson Shūkei,1492.0,1577.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5958,Tenshō Shūbun,,,ambiguous,"same name, insufficient dates to confirm",,,1
+59713,Nicholas Dixon,1640.0,1708.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+5979,Sōami,,1525.0,ambiguous,"same name, insufficient dates to confirm",,,1
+59836,W. T. Copeland & Sons,,,ambiguous,"same name, insufficient dates to confirm",,,1
+59870,Giovanni Pisano,1240.0,1320.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+59911,Wenzel von Olmütz,,,ambiguous,"same name, insufficient dates to confirm",,,1
+60491,Pace Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+61242,John Baily,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6148,Charles-Nicolas Odiot,1826.0,1868.0,ambiguous,"same name, insufficient dates to confirm",,,1
+61506,Jai Ram,,,ambiguous,"same name, insufficient dates to confirm",,,1
+615640,Ambrogio Lorenzetti,1285.0,1348.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+61584,Petrus Christus,1410.0,1476.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6163,Tosa School,,,ambiguous,"same name, insufficient dates to confirm",,,1
+61664,Becquet,,,ambiguous,"same name, insufficient dates to confirm",,,1
+61762,Studio,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6184,Tawaraya Sōri,,,ambiguous,"same name, insufficient dates to confirm",,,1
+61875,Sahib Ram,,,ambiguous,"same name, insufficient dates to confirm",,,1
+61932,Sandy Walker,,,ambiguous,"same name, insufficient dates to confirm",,,1
+62097,Gerard van Groeningen,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6210,Chen Juzhong,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6218,Ma Lin,1180.0,1260.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6221,Joseph Chinard,1756.0,1825.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6236,Li Song,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6241,Liu Songnian,1150.0,1230.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6246,Luo Zhichuan,,1330.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6256,Yan Hui,1245.0,1315.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+62648,Tommaso Cuccioni,,1864.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6266,Wu Bin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+62778,Fra Angelico,1400.0,1455.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+62922,Maurice Sanchez,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63043,Otto Felsing,,,ambiguous,"same name, insufficient dates to confirm",,,1
+632,Paul Martin,1864.0,1944.0,ambiguous,"same name, insufficient dates to confirm",,,1
+63230,Leslie Miller,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63267,Catherine Mousley,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63321,Daria Sywulak,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63462,Abd al-Samad,1510.0,1600.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+63465,Dasavanta,,1584.0,ambiguous,"same name, insufficient dates to confirm",,,1
+63468,Manohar,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63477,Padarath,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63486,Fattu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63508,Khem Karan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63520,Miskin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63529,Balchand,,,ambiguous,"same name, insufficient dates to confirm",,,2
+63542,Bichitr,,,ambiguous,"same name, insufficient dates to confirm",,,1
+63554,Mir Kalan Khan,1730.0,1775.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6362,Basavana,,1600.0,ambiguous,"same name, insufficient dates to confirm",,,1
+63797,Mir Sayyid Ali,1555.0,1580.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+64010,Wendell Castle,1932.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+64200,Ron Galella,1931.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+64212,Ken Heyman,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+64402,Shravana,,,ambiguous,"same name, insufficient dates to confirm",,,1
+64465,George W. Shiebler & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+64813,Sultan Muhammad Nur,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6484,Lucien Clergue,1934.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+6525,William Hart,,,ambiguous,"same name, insufficient dates to confirm",,,1
+65603,Thomas Barrow,1938.0,2024.0,ambiguous,"same name, insufficient dates to confirm",,,1
+65634,J.D. 'Okhai Ojeikere,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+65662,Jules Gustave Besson,1868.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+65674,Manuel Robbe,1872.0,1936.0,ambiguous,"same name, insufficient dates to confirm",,,1
+65808,10 Grand Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+65886,Jiva,,,ambiguous,"same name, insufficient dates to confirm",,,1
+65989,Kaigetsudō Doshin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66006,Payag,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66009,Sheng Maoye,,,ambiguous,"same name, insufficient dates to confirm",,,1
+662772,Bernheim-Jeune,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66393,Mir 'Ali Haravi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66401,Siri Berg,1921.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+66404,Emily Berger,1963.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+66407,Susan Bonfils,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66413,Henry Brown,,,ambiguous,"same name, insufficient dates to confirm",,,2
+66416,Kenneth Bushnell,1933.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+66425,John Goodyear,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+66428,Gail Gregg,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66446,Phillis Ideal,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66458,Steve Karlik,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66464,Irene Lawrence,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66473,Stephen Maine,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66476,Katinka Mann,1925.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+66508,Robert Storr,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66514,Clover Vail,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66526,Jeanne Wilkinson,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66532,Thornton Willis,1936.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+66535,Nola Zirin,1943.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+66630,Richard Ranft,1862.0,1931.0,ambiguous,"same name, insufficient dates to confirm",,,1
+66900,Keison,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66921,PaJaMa,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66924,Margaret French,,,ambiguous,"same name, insufficient dates to confirm",,,1
+669786,Louis Fort,,,ambiguous,"same name, insufficient dates to confirm",,,1
+66988,Wilhelm Hammerschmidt,,1869.0,ambiguous,"same name, insufficient dates to confirm",,,1
+670279,Camille Silvy,1834.0,1910.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+670311,Jacopo Amigoni,1675.0,1752.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+671869,Orcagna,1305.0,1368.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+67337,Aaron Arnow,,,ambiguous,"same name, insufficient dates to confirm",,,1
+673517,William Pether,1728.0,1821.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+67382,Edward Ancourt,1841.0,,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+67385,Andre Marty,1857.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+67394,Antonio Salamanca,,,ambiguous,"same name, insufficient dates to confirm",,,1
+673965,Philipp H. André,,,ambiguous,"same name, insufficient dates to confirm",,,1
+674090,Peter Charles Henderson,1771.0,1829.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+674094,Thomas Warner,,,ambiguous,"same name, insufficient dates to confirm",,,2
+67445,Aubert,,,ambiguous,"same name, insufficient dates to confirm",,,2
+674489,Berardo Galiani,1724.0,1774.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+67457,Auguste Delâtre,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67460,Auguste Delâtre,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67463,Auguste Delâtre,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67466,Bance,,,ambiguous,"same name, insufficient dates to confirm",,,1
+674825,Giovanni Bouchard,1716.0,1795.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+67493,Bertauts,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67505,Blanchard,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67517,Bolton Brown,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67523,Bradbury and Evans,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67526,Bradley & Rulofson,,,ambiguous,"same name, insufficient dates to confirm",,,2
+67535,Brooke Alexander Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67538,"Brooke Alexander, Inc.",,,ambiguous,"same name, insufficient dates to confirm",,,1
+675582,Adrianus Kocx,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67586,CADART & LUQUET,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67604,Cadart and Chevalier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67607,Cadart and Luce,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67610,Cadart and Luquet,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67628,Carel Collaert,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67643,Castelli Graphics,,,ambiguous,"same name, insufficient dates to confirm",,,2
+67646,Catherine Kord,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67667,Charles Boivin,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67673,Charles Joseph Hullmandel,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67682,Charles S. White,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67685,Charles S. White,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67703,Chiron Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67706,Circle Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67709,Cirrus Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67715,Claes Jansz Visscher,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67751,Crown Point Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+677611,Marie Cosindas,1923.0,2017.0,ambiguous,"same name, insufficient dates to confirm",,,1
+67763,David Strang,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67775,Delpech,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67787,Dentu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67790,Derrydale Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67883,Edmond Frapier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+67910,Eugene Verneau,,,ambiguous,"same name, insufficient dates to confirm",,,1
+679251,Robert Lawson,1897.0,1968.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+680643,William Johnson,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68069,Galerie h,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68081,Gazette des Beaux Arts,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68084,Gazette des Beaux-Arts,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68087,Gemini G. E. L.,,,ambiguous,"same name, insufficient dates to confirm",,,2
+68090,Gemini G.E.L,,,ambiguous,"same name, insufficient dates to confirm",,,2
+68093,Gemini G.E.L.,,,ambiguous,"same name, insufficient dates to confirm",,,2
+68114,Gèrald Cramer,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68117,Gesellschaft Fur Vervielfaltigende Kunst,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68144,Goupil et Cie,,,ambiguous,"same name, insufficient dates to confirm",,,1
+681793,Anton Koberger,1435.0,1513.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+68198,Hachette,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68207,Hannah Humphrey,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68237,Henry G. Bohn,,,ambiguous,"same name, insufficient dates to confirm",,,2
+68240,Hieronymus Cock,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68285,Insel Verlag,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68324,J.B. Neumann,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68345,Janus Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68354,Jean Louis Prévost,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68360,Johann Otmar,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68363,John Boydell,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68366,John Chamberlaine,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68426,L'Artiste,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68429,L'Estampe Originale,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68432,L'Estampe Originale,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68456,La Estampa Mexicana,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68477,Landfall Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68483,Laurels Gallery,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68489,Lemercier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68492,Lemercier & Cie.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68495,Leo Castelli Gallery,,,ambiguous,"same name, insufficient dates to confirm",,,2
+68573,"Longman, Green, Longman, Roberts & Green",,,ambiguous,"same name, insufficient dates to confirm",,,1
+68600,Maeght Éditeur,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68615,Marlborough Graphics,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68627,Matthew Marks Gallery,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68687,Nicolas Robert,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68696,Olive Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68705,Original Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68717,P. & D. Colnaghi & Co.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68726,Pace Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+687468,Hidalgo Arnéra,1922.0,2007.0,ambiguous,"same name, insufficient dates to confirm",,,1
+68753,Paul Cassirer,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68771,Peter Blum Edition,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68780,Petersburg Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+687941,Cimabue,1235.0,1305.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+68795,Pierre-Joseph Redouté,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68798,Pierre-Joseph Redouté,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68810,Print Club of Cleveland,,,ambiguous,"same name, insufficient dates to confirm",,,1
+688558,Claude Simpol,1666.0,1711.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+688839,Jan Pitten,,,ambiguous,"same name, insufficient dates to confirm",,,1
+68996,Georges Visat,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69149,Robert Dunthorne,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69170,"Sampson Low, Marston, Searle and Rivington",,,ambiguous,"same name, insufficient dates to confirm",,,1
+69173,"Sampson Low, Marston, Searle and Rivington",,,ambiguous,"same name, insufficient dates to confirm",,,1
+6921,Kartell,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69212,"T. M'Lean,",,,ambiguous,"same name, insufficient dates to confirm",,,1
+692128,Bihzad,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69227,Tamarind Institute,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69290,Tamarind Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69296,Tandem Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69299,Tanglewood Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69326,The Autotype Company,,,ambiguous,"same name, insufficient dates to confirm",,,1
+693401,Massimo Stanzione,1575.0,1666.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+69359,The Print Club of Cleveland,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69404,The University Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69431,Thierry frères,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69443,Tiber Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69455,Triton Press,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69458,Tyler Graphics Ltd.,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69470,Universal Limited Art Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69482,University of Pennsylvania,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69527,Vermillion Editions,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69533,Villain,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69536,Vincent Brooks Day & Son,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69548,Waddington Graphics,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69557,William Heinemann,,,ambiguous,"same name, insufficient dates to confirm",,,1
+69563,William Mackenzie,,,ambiguous,"same name, insufficient dates to confirm",,,1
+6966,Govardhan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+696750,Zhang Ju,1917.0,1998.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+6969,Dharam Das,,,ambiguous,"same name, insufficient dates to confirm",,,1
+697146,William Baker,1828.0,1880.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+697165,Charles Shepherd,1830.0,1900.0,ambiguous,"same name, insufficient dates to confirm",,,1
+700788,Eileen M. Foti,,,ambiguous,"same name, insufficient dates to confirm",,,1
+703060,Joos de Bosscher,,,ambiguous,"same name, insufficient dates to confirm",,,1
+708789,Giuseppe Caletti,1590.0,1670.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+709407,Hans Süss von Kulmbach,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7108,Georg Thylstrup,,,ambiguous,"same name, insufficient dates to confirm",,,1
+711391,Tung Hing,,,ambiguous,"same name, insufficient dates to confirm",,,1
+711393,Thomas Child,1841.0,1898.0,ambiguous,"same name, insufficient dates to confirm",,,1
+7192,Danese Cattaneo,1509.0,1573.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+720520,Dutch,,,ambiguous,"same name, insufficient dates to confirm",,,1
+721077,Jeanne Bucher,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7542,Guillaume Dupré,1576.0,1643.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+7588,Frances Barnum,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7739,Master Honoré,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7796,Lippo Vanni,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7810,Lorenzo Veneziano,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7826,Neri da Rimini,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7873,Pierre Stèphan,,,ambiguous,"same name, insufficient dates to confirm",,,1
+7990,Charles White,1918.0,1979.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8009,Michelino Molinari da Besozzo,1385.0,1445.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8028,Master of the Murano Gradual,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8047,Girolamo da Cremona,,1483.0,ambiguous,"same name, insufficient dates to confirm",,,1
+823,ringl + pit,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8289,Joseph Clark,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8292,Jonathan Clarke,1706.0,1766.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8412,James Robertson,1813.0,1865.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8415,Thomas Lynde,1748.0,1811.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8482,Benjamin Wynkoop,1675.0,1728.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8645,John David,1736.0,1793.0,ambiguous,"same name, insufficient dates to confirm",,,1
+8675,Charles Le Bastier,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8678,Pierre-François-Mathis de Beaulieu,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8706,Mortimer Menpes,1860.0,1938.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8736,Anthony Nelme,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8799,Benjamin Pyne,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8851,Wilhelmina Post,,,ambiguous,"same name, insufficient dates to confirm",,,1
+8963,Peter Bateman,1740.0,1825.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+8989,Harvey Lewis,,1835.0,ambiguous,"same name, insufficient dates to confirm",,,1
+9002,Thomas Heming,1722.0,1801.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+9053,William Pitts,,,ambiguous,"same name, insufficient dates to confirm",,,1
+9132,John Seymour,1738.0,1818.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+9146,Tucker Factory,,,ambiguous,"same name, insufficient dates to confirm",,,1
+9175,Jagoda Buic,1930.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+921,Kenneth Snelson,1927.0,,ambiguous,"same name, insufficient dates to confirm",,,1
+9218,Naomi Kobayashi,,,ambiguous,"same name, insufficient dates to confirm",,,1
+955,John Stewart,1800.0,1887.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+9707,Hans Leinberger,,,ambiguous,"same name, insufficient dates to confirm",,,1
+9710,Master of Rabenden,,,ambiguous,"same name, insufficient dates to confirm",,,1
+9766,Jean de la Huerta,,,ambiguous,"same name, insufficient dates to confirm",,,1
+9817,Giunta di Tugio,1382.0,1450.0,ambiguous,same name but a year disagrees beyond tolerance (data error or different person),,,1
+9821,Tilman Riemenschneider,,1531.0,ambiguous,"same name, insufficient dates to confirm",,,1
