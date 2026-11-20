@@ -1,0 +1,108 @@
+cle_creator_id,cle_name,cle_birth,cle_death,match_status,reason,matched_entity_id,matched_qid,n_name_candidates
+291834,James Barry,1741.0,1806.0,confirmed,name + birth/death years agree,wd:Q1042892,Q1042892,1
+26891,James Barry,1741.0,1806.0,confirmed,name + birth/death years agree,wd:Q1042892,Q1042892,1
+523247,Jean François Gigoux,1806.0,1894.0,confirmed,name + birth/death years agree,wd:Q1357191,Q1357191,1
+29671,Jean Francois Gigoux,1806.0,1894.0,confirmed,name + birth/death years agree,wd:Q1357191,Q1357191,1
+9622,Philip Galle,1537.0,1612.0,confirmed,name + birth/death years agree,wd:Q1379395,Q1379395,1
+662053,Philip Galle,1537.0,1612.0,confirmed,name + birth/death years agree,wd:Q1379395,Q1379395,1
+304418,Oskar Kokoschka,1886.0,1980.0,confirmed,name + birth/death years agree,wd:Q154260,Q154260,1
+23793,Oskar Kokoschka,1886.0,1980.0,confirmed,name + birth/death years agree,wd:Q154260,Q154260,1
+287558,Victor Vasarely,1906.0,1997.0,confirmed,name + birth/death years agree,wd:Q154448,Q154448,1
+3742,Victor Vasarely,1908.0,1997.0,confirmed,name + birth/death years agree,wd:Q154448,Q154448,1
+2559,John Singer Sargent,1856.0,1925.0,confirmed,name + birth/death years agree,wd:Q155626,Q155626,1
+287402,John Singer Sargent,1856.0,1925.0,confirmed,name + birth/death years agree,wd:Q155626,Q155626,1
+2136,Georges Rouault,1871.0,1958.0,confirmed,name + birth/death years agree,wd:Q156128,Q156128,1
+287292,Georges Rouault,1871.0,1958.0,confirmed,name + birth/death years agree,wd:Q156128,Q156128,1
+26059,Erich Heckel,1883.0,1970.0,confirmed,name + birth/death years agree,wd:Q156700,Q156700,1
+287247,Erich Heckel,1883.0,1970.0,confirmed,name + birth/death years agree,wd:Q156700,Q156700,1
+3273,Karl Schmidt-Rottluff,1884.0,1976.0,confirmed,name + birth/death years agree,wd:Q161143,Q161143,1
+287296,Karl Schmidt-Rottluff,1884.0,1976.0,confirmed,name + birth/death years agree,wd:Q161143,Q161143,1
+18616,Viktor Schreckengost,1906.0,2008.0,confirmed,name + birth/death years agree,wd:Q1628989,Q1628989,1
+38715,Viktor Schreckengost,1906.0,2008.0,confirmed,name + birth/death years agree,wd:Q1628989,Q1628989,1
+291382,Mike Disfarmer,1884.0,1959.0,confirmed,name + birth/death years agree,wd:Q1630000,Q1630000,1
+64227,Mike Disfarmer,1884.0,1959.0,confirmed,name + birth/death years agree,wd:Q1630000,Q1630000,1
+381102,Nagasawa Rosetsu,1754.0,1799.0,confirmed,name + birth/death years agree,wd:Q1632536,Q1632536,1
+20337,Nagasawa Rosetsu,1754.0,1799.0,confirmed,name + birth/death years agree,wd:Q1632536,Q1632536,1
+287238,Miguel Covarrubias,1904.0,1957.0,confirmed,name + birth/death years agree,wd:Q1709505,Q1709505,1
+13153,Miguel Covarrubias,1904.0,1957.0,confirmed,name + birth/death years agree,wd:Q1709505,Q1709505,1
+286020,Roelant Roghman,1627.0,1692.0,confirmed,name + birth/death years agree,wd:Q1777607,Q1777607,1
+22502,Roelant Roghman,1627.0,1692.0,confirmed,name + birth/death years agree,wd:Q1777607,Q1777607,1
+3980,Dorothy Dehner,1901.0,1994.0,confirmed,name + birth/death years agree,wd:Q2164544,Q2164544,1
+290174,Dorothy Dehner,1901.0,1994.0,confirmed,name + birth/death years agree,wd:Q2164544,Q2164544,1
+290494,Grant Wood,1891.0,1942.0,confirmed,name + birth/death years agree,wd:Q217434,Q217434,1
+18195,Grant Wood,1891.0,1942.0,confirmed,name + birth/death years agree,wd:Q217434,Q217434,1
+48078,George Morland,1763.0,1804.0,confirmed,name + birth/death years agree,wd:Q2405427,Q2405427,1
+27454,George Morland,1763.0,1804.0,confirmed,name + birth/death years agree,wd:Q2405427,Q2405427,1
+294180,Etienne Carjat,1828.0,1906.0,confirmed,name + birth/death years agree,wd:Q2442116,Q2442116,1
+299,Étienne Carjat,1828.0,1906.0,confirmed,name + birth/death years agree,wd:Q2442116,Q2442116,1
+3819,Leonard Baskin,1922.0,2000.0,confirmed,name + birth/death years agree,wd:Q2601617,Q2601617,1
+287224,Leonard Baskin,1922.0,2000.0,confirmed,name + birth/death years agree,wd:Q2601617,Q2601617,1
+1733,Pierre Bonnard,1867.0,1947.0,confirmed,name + birth/death years agree,wd:Q26408,Q26408,1
+306281,Pierre Bonnard,1867.0,1947.0,confirmed,name + birth/death years agree,wd:Q26408,Q26408,1
+521,Gertrude Käsebier,1852.0,1934.0,confirmed,name + birth/death years agree,wd:Q271918,Q271918,1
+313367,Gertrude Käsebier,1852.0,1934.0,confirmed,name + birth/death years agree,wd:Q271918,Q271918,1
+291499,Kitagawa Utamaro,1753.0,1806.0,confirmed,name + birth/death years agree,wd:Q272045,Q272045,1
+23355,Kitagawa Utamaro,1754.0,1806.0,confirmed,name + birth/death years agree,wd:Q272045,Q272045,1
+4721,Jan Muller,1571.0,1628.0,confirmed,name + birth/death years agree,wd:Q2725591,Q2725591,1
+540251,Jan Muller,1571.0,1628.0,confirmed,name + birth/death years agree,wd:Q2725591,Q2725591,1
+12835,Etienne-Maurice Falconet,1716.0,1791.0,confirmed,name + birth/death years agree,wd:Q289246,Q289246,1
+304711,Etienne-Maurice Falconet,1716.0,1791.0,confirmed,name + birth/death years agree,wd:Q289246,Q289246,1
+1862,Henri Fantin-Latour,1836.0,1904.0,confirmed,name + birth/death years agree,wd:Q310715,Q310715,1
+374020,Henri Fantin-Latour,1836.0,1904.0,confirmed,name + birth/death years agree,wd:Q310715,Q310715,1
+22920,Hans Burgkmair,1473.0,1531.0,confirmed,name + birth/death years agree,wd:Q313163,Q313163,1
+392750,Hans Burgkmair the Elder,1473.0,1531.0,confirmed,name + birth/death years agree,wd:Q313163,Q313163,1
+437631,Hermann-Paul,1864.0,1940.0,confirmed,name + birth/death years agree (1 other same-name candidate(s) rejected/weak),wd:Q3134127,Q3134127,2
+29322,Hermann Paul,1864.0,1940.0,confirmed,name + birth/death years agree (1 other same-name candidate(s) rejected/weak),wd:Q3134127,Q3134127,2
+6190,Iwasa Matabei,1578.0,1650.0,confirmed,name + birth/death years agree,wd:Q3156405,Q3156405,1
+284140,Iwasa Matabei,1578.0,1650.0,confirmed,name + birth/death years agree,wd:Q3156405,Q3156405,1
+290225,Jan van Goyen,1596.0,1656.0,confirmed,name + birth/death years agree,wd:Q315996,Q315996,1
+2650,Jan van Goyen,1596.0,1656.0,confirmed,name + birth/death years agree,wd:Q315996,Q315996,1
+1709,Paul Delaroche,1797.0,1856.0,confirmed,name + birth/death years agree,wd:Q322582,Q322582,1
+539078,Paul Delaroche,1797.0,1856.0,confirmed,name + birth/death years agree,wd:Q322582,Q322582,1
+539097,Daniel Huntington,1816.0,1906.0,confirmed,name + birth/death years agree,wd:Q323987,Q323987,1
+2457,Daniel Huntington,1816.0,1906.0,confirmed,name + birth/death years agree,wd:Q323987,Q323987,1
+306953,Louis Félix de La Rue,1731.0,1777.0,confirmed,name + birth/death years agree,wd:Q3260531,Q3260531,1
+53899,Louis Felix de la Rue,1731.0,1765.0,confirmed,name + birth/death years agree,wd:Q3260531,Q3260531,1
+290276,Ralph Steiner,1899.0,1986.0,confirmed,name + birth/death years agree,wd:Q3418301,Q3418301,1
+944,Ralph Steiner,1899.0,1986.0,confirmed,name + birth/death years agree,wd:Q3418301,Q3418301,1
+22540,Adriaen van Ostade,1610.0,1684.0,confirmed,name + birth/death years agree,wd:Q352438,Q352438,1
+716079,Adriaen van Ostade,1610.0,1685.0,confirmed,name + birth/death years agree,wd:Q352438,Q352438,1
+14639,Antonio Frasconi,1919.0,2013.0,confirmed,name + birth/death years agree,wd:Q3610506,Q3610506,1
+290222,Antonio Frasconi,1919.0,2013.0,confirmed,name + birth/death years agree,wd:Q3610506,Q3610506,1
+5813,Pierre Jean David d'Angers,1788.0,1856.0,confirmed,name + birth/death years agree,wd:Q364498,Q364498,1
+38598,Pierre-Jean David d'Angers,1788.0,1856.0,confirmed,name + birth/death years agree,wd:Q364498,Q364498,1
+1785,Armand Guillaumin,1841.0,1927.0,confirmed,name + birth/death years agree,wd:Q436844,Q436844,1
+286182,Armand Guillaumin,1841.0,1927.0,confirmed,name + birth/death years agree,wd:Q436844,Q436844,1
+291531,Weegee,1899.0,1968.0,confirmed,name + birth/death years agree,wd:Q445857,Q445857,1
+1070,Weegee,1899.0,1968.0,confirmed,name + birth/death years agree,wd:Q445857,Q445857,1
+1759,Edgar Degas,1834.0,1917.0,confirmed,name + birth/death years agree,wd:Q46373,Q46373,1
+286012,Edgar Degas,1834.0,1917.0,confirmed,name + birth/death years agree,wd:Q46373,Q46373,1
+1571,William Adolphe Bouguereau,1825.0,1905.0,confirmed,name + birth/death years agree,wd:Q483992,Q483992,1
+292526,William-Adolphe Bouguereau,1825.0,1905.0,confirmed,name + birth/death years agree,wd:Q483992,Q483992,1
+294344,André Adolphe-Eugène Disdéri,1819.0,1889.0,confirmed,name + birth/death years agree,wd:Q515461,Q515461,1
+358,André Adolphe-Eugène Disdéri,1819.0,1889.0,confirmed,name + birth/death years agree,wd:Q515461,Q515461,1
+287537,Sam Francis,1923.0,1994.0,confirmed,name + birth/death years agree,wd:Q526470,Q526470,1
+30676,Sam Francis,1923.0,1994.0,confirmed,name + birth/death years agree,wd:Q526470,Q526470,1
+287457,Jim Dine,1935.0,,confirmed,name + birth/death years agree,wd:Q531234,Q531234,1
+12528,Jim Dine,1935.0,,confirmed,name + birth/death years agree,wd:Q531234,Q531234,1
+3488,Ellsworth Kelly,1923.0,2015.0,confirmed,name + birth/death years agree,wd:Q544899,Q544899,1
+282006,Ellsworth Kelly,1923.0,2015.0,confirmed,name + birth/death years agree,wd:Q544899,Q544899,1
+37563,Frederick Carder,1863.0,1963.0,confirmed,name + birth/death years agree,wd:Q5497490,Q5497490,1
+285941,Frederick Carder,1863.0,1963.0,confirmed,name + birth/death years agree,wd:Q5497490,Q5497490,1
+2520,Rembrandt van Rijn,1606.0,1669.0,confirmed,name + birth/death years agree,wd:Q5598,Q5598,1
+291869,Rembrandt van Rijn,1606.0,1669.0,confirmed,name + birth/death years agree,wd:Q5598,Q5598,1
+289976,Fred Becker,1913.0,2004.0,confirmed,name + birth/death years agree,wd:Q60712374,Q60712374,1
+33465,Fred Becker,1913.0,2004.0,confirmed,name + birth/death years agree,wd:Q60712374,Q60712374,1
+314214,August Sander,1876.0,1964.0,confirmed,name + birth/death years agree,wd:Q61530,Q61530,1
+862,August Sander,1876.0,1964.0,confirmed,name + birth/death years agree,wd:Q61530,Q61530,1
+291504,Arthur Rothstein,1915.0,1985.0,confirmed,name + birth/death years agree,wd:Q711226,Q711226,1
+6592,Arthur Rothstein,1915.0,1985.0,confirmed,name + birth/death years agree,wd:Q711226,Q711226,1
+25579,Leonardo da Vinci,1452.0,1519.0,confirmed,name + birth/death years agree,wd:Q762,Q762,1
+694939,Leonardo da Vinci,1452.0,1519.0,confirmed,name + birth/death years agree,wd:Q762,Q762,1
+62805,Leonardo da Vinci,1452.0,1519.0,confirmed,name + birth/death years agree,wd:Q762,Q762,1
+291349,Ilse Bing,1899.0,1998.0,confirmed,name + birth/death years agree,wd:Q85719,Q85719,1
+235,Ilse Bing,1899.0,1998.0,confirmed,name + birth/death years agree,wd:Q85719,Q85719,1
+56189,Josef Frank,1885.0,1967.0,confirmed,name + birth/death years agree,wd:Q93847,Q93847,1
+317228,Josef Frank,1885.0,1967.0,confirmed,name + birth/death years agree,wd:Q93847,Q93847,1
+23352,Kikukawa Eizan,1787.0,1867.0,confirmed,name + birth/death years agree,wd:Q947896,Q947896,1
+34449,Kikukawa Eizan,1787.0,1867.0,confirmed,name + birth/death years agree,wd:Q947896,Q947896,1
