@@ -26,7 +26,7 @@ I finished collecting all three datasets, created reusable Python download scrip
 I began developing a Python script that helps us to evaluate the accuracy, completeness, consistency, and timeliness of the datasets. This will focus on any missing artist information, inconsistencies in the date format, duplicated records, and other errors in the biographical information. Our findings will be used to determine the next step in terms of cleaning the datasets and standardizing them for integration. My next steps will include completing the preliminary assessment and documenting those results and also collaborating with my team members to work on the data integration and make sure our artist-matching fields are consistent.
 
 
-## Data Integration and Record Linkage: Individual Contribution
+## Data Integration and Record Linkage - Zhitong
 
 **Work completed (branch `data-integration`)**
 
