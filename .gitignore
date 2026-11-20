@@ -12,5 +12,7 @@ __pycache__/
 data/raw/met_artworks.csv
 data/raw/cleveland_artworks.json
 
+.venv/
+data/raw/
 # Integrated outputs (large, regenerate with scripts/integrate.py)
 data/integrated/

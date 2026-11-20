@@ -1,0 +1,21 @@
+dataset,dimension,metric,value,notes
+Met,completeness,total_artworks,503378,
+Met,completeness,missing_artist_names,199720,
+Met,completeness,missing_nationalities,228729,
+Met,completeness,missing_wikidata_urls,267322,
+Met,consistency,duplicate_object_ids,0,
+Met,accuracy,unparseable_or_implausible_artist_dates,223478,"Automated plausibility check, not external fact verification"
+Met,timeliness,assessment_date,2026-11-20,Assessment date is not the source's last update date
+Cleveland,completeness,total_artworks,68819,
+Cleveland,completeness,artworks_without_creators,20127,
+Cleveland,consistency,duplicate_artwork_ids,0,
+Cleveland,timeliness,assessment_date,2026-11-20,Source update date not independently verified
+Wikidata,completeness,total_binding_rows,25679,
+Wikidata,completeness,missing_artist,0,
+Wikidata,completeness,missing_artistLabel,0,
+Wikidata,completeness,missing_birthDate,564,
+Wikidata,completeness,missing_country,2738,
+Wikidata,completeness,missing_countryLabel,2738,
+Wikidata,completeness,missing_deathDate,2487,
+Wikidata,consistency,exact_duplicate_binding_rows,0,Repeated artist IDs may be legitimate due to multiple properties
+Wikidata,timeliness,assessment_date,2026-11-20,Query retrieval timestamp not independently verified
