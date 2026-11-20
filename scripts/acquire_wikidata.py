@@ -14,14 +14,12 @@ output_path = raw_dir / "wikidata_artists.json"
 
 url = "https://query.wikidata.org/sparql"
 
-# Load Wikidata URLs from Met dataset
 met = pd.read_csv(
     met_path,
     usecols=["Artist Wikidata URL"],
     low_memory=False
 )
 
-# Extract unique Wikidata IDs
 qids = set()
 
 for value in met["Artist Wikidata URL"].dropna():
@@ -35,7 +33,6 @@ print("Unique Wikidata IDs found:", len(qids))
 if not qids:
     raise ValueError("No Wikidata IDs found")
 
-# Configure API requests
 session = requests.Session()
 
 session.headers.update({
@@ -49,7 +46,6 @@ session.headers.update({
 batch_size = 100
 all_results = []
 
-# Query Wikidata in batches
 for i in range(0, len(qids), batch_size):
 
     batch = qids[i:i + batch_size]
@@ -75,7 +71,7 @@ for i in range(0, len(qids), batch_size):
     }}
     """
 
-    # Retry temporary API failures
+
     for attempt in range(5):
         try:
             response = session.get(
@@ -112,11 +108,10 @@ for i in range(0, len(qids), batch_size):
 if not all_results:
     raise ValueError("No Wikidata records retrieved")
 
-# Save raw JSON results
+
 with open(output_path, "w", encoding="utf-8") as file:
     json.dump(all_results, file, ensure_ascii=False, indent=2)
 
-# Generate SHA-256 checksum
 sha256 = hashlib.sha256()
 
 with open(output_path, "rb") as file:
@@ -128,7 +123,7 @@ checksum = sha256.hexdigest()
 with open(raw_dir / "wikidata_sha256.txt", "w") as file:
     file.write(checksum + "\n")
 
-# Count unique artists retrieved
+
 unique_artists = {
     row["artist"]["value"]
     for row in all_results
