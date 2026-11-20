@@ -10,3 +10,4 @@ __pycache__/
 
 # Large raw datasets
 data/raw/met_artworks.csv
+data/raw/cleveland_artworks.json
