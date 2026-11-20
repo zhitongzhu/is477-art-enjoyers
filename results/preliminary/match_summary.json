@@ -1,0 +1,92 @@
+{
+  "inputs": {
+    "met": "data/raw/met_artworks.csv",
+    "cleveland": "data/raw/cleveland_artworks.json",
+    "wikidata": "data/raw/wikidata_artists.json",
+    "note": "PRELIMINARY run on raw (uncleaned) data"
+  },
+  "parameters": {
+    "year_tolerance": 2,
+    "sample_cleveland": 0,
+    "seed": 477
+  },
+  "met": {
+    "artwork_rows": 503378,
+    "artworks_with_named_creator": 303658,
+    "creator_mentions": 479195,
+    "anonymous_mentions": 17637,
+    "misaligned_multi_value_rows": 0,
+    "mentions_with_qid": 296576,
+    "distinct_artist_keys": 62475,
+    "distinct_qids": 20137,
+    "artist_keys_without_qid": 42338,
+    "cells_with_more_than_one_qid_for_one_creator": 0
+  },
+  "wikidata": {
+    "bindings": 25679,
+    "distinct_qids": 19665,
+    "multiple_birth_years": 808,
+    "multiple_death_years": 446,
+    "multiple_countries": 2462,
+    "no_english_label": 823
+  },
+  "met_to_wikidata": {
+    "confirmed_qid": 17351,
+    "confirmed_qid_date_conflict": 2314,
+    "qid_not_in_wikidata_file": 472
+  },
+  "cleveland": {
+    "artworks": 68819,
+    "artworks_with_creators": 48692,
+    "creator_mentions": 57045,
+    "distinct_creators": 9135,
+    "anonymous_creators": 10,
+    "creators_with_internal_date_conflict": 102,
+    "creators_matched_in_this_run": 9135,
+    "creator_ids_confirmed_to_an_entity_shared_with_another_id": 107
+  },
+  "cleveland_match_status": {
+    "unmatched": 4862,
+    "confirmed": 3358,
+    "ambiguous": 905,
+    "excluded_anonymous": 10
+  },
+  "cleveland_match_reasons": {
+    "ambiguous | same name but a year disagrees beyond tolerance (data error or different person)": 292,
+    "ambiguous | same name, insufficient dates to confirm": 613,
+    "confirmed | name + birth/death years agree": 3276,
+    "confirmed | name + birth/death years agree (1 other same-name candidate(s) rejected/weak)": 58,
+    "confirmed | name + birth/death years agree (2 other same-name candidate(s) rejected/weak)": 7,
+    "confirmed | name + birth/death years agree (3 other same-name candidate(s) rejected/weak)": 6,
+    "confirmed | name + birth/death years agree (6 other same-name candidate(s) rejected/weak)": 1,
+    "confirmed | name + birth/death years agree; 2 Met records for the same person (Met-side duplicates)": 9,
+    "confirmed | name + birth/death years agree; 3 Met records for the same person (Met-side duplicates)": 1,
+    "excluded_anonymous | anonymous/unknown creator": 10,
+    "unmatched | no Met/Wikidata name match": 4862
+  },
+  "completeness_by_distinct_artist": {
+    "cleveland": {
+      "distinct_artists": 9071,
+      "birth_year_known_museum_pct": 76.0,
+      "birth_year_known_after_wikidata_pct": 76.0,
+      "death_year_known_museum_pct": 61.6,
+      "death_year_known_after_wikidata_pct": 61.6,
+      "nationality_known_museum_pct": 91.1,
+      "citizenship_known_wikidata_pct": 32.0
+    },
+    "met": {
+      "distinct_artists": 62475,
+      "birth_year_known_museum_pct": 75.8,
+      "birth_year_known_after_wikidata_pct": 76.5,
+      "death_year_known_museum_pct": 69.7,
+      "death_year_known_after_wikidata_pct": 70.5,
+      "nationality_known_museum_pct": 84.4,
+      "citizenship_known_wikidata_pct": 27.6
+    }
+  },
+  "integrated_rows": 536240,
+  "overlap": {
+    "confirmed_cleveland_creators_in_met": 3358,
+    "of_which_with_qid": 3119
+  }
+}

@@ -11,3 +11,6 @@ __pycache__/
 # Large raw datasets
 data/raw/met_artworks.csv
 data/raw/cleveland_artworks.json
+
+# Integrated outputs (large, regenerate with scripts/integrate.py)
+data/integrated/
